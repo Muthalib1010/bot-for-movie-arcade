@@ -35,7 +35,7 @@ Hello! my name *{}*.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
-DONATE_STRING = """ If you wish to donate then contact my [owner](https://t.me/Jinn_of_universe).  """
+DONATE_STRING = """ If you wish to donate then contact my [owner](https://t.me/owner_movie_arcade).  """
 
 
 IMPORTED = {}
